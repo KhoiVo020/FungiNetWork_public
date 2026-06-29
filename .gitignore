@@ -2,3 +2,5 @@ _archive/
 archive/
 __pycache__/
 *.py[cod]
+result/
+results/
